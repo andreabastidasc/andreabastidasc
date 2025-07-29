@@ -1,7 +1,7 @@
 ### Hey! I'm Andrea 👩🏻‍💻
 
 Fullstack dev ☕ | JavaScript & Python fan | Gamer by heart 🎮 | Board game addict 🎲  
-Born in 🇻🇪 Venezuela · Based in 🇦🇷 Buenos Aires
+Based in Buenos Aires, Argentina
 
 ---
 
@@ -27,7 +27,7 @@ Born in 🇻🇪 Venezuela · Based in 🇦🇷 Buenos Aires
 
 ### 📫 Let's connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/andreabastidasc) *(replace with your link)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andreabastidasc)
 - 💌 andrea.bcolina@gmail.com
 
 ---
