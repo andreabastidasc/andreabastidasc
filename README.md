@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hey! I'm Andrea 👩🏻‍💻
 
-<!--
-**andreabastidasc/andreabastidasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack dev ☕ | JavaScript & Python fan | Gamer by heart 🎮 | Board game addict 🎲  
+Born in 🇻🇪 Venezuela · Based in 🇦🇷 Buenos Aires
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+**Frontend:**
+- React ⚛️ (my favorite)
+- Angular 🅰️
+- React Native 📱
+- TypeScript / JavaScript
+
+**Backend:**
+- Python 🐍 (Django, FastAPI)
+- REST APIs & Microservices
+- PostgreSQL / SQLite
+
+**Other:**
+- Git & GitHub
+- Docker (basic use)
+- Vite, Webpack, Next.js, etc.
+
+---
+
+### 📫 Let's connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andreabastidasc) *(replace with your link)*
+- 💌 andrea.bcolina@gmail.com
+
+---
+
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreabastidasc&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreabastidasc&layout=compact&theme=dracula)
